@@ -1,2 +1,2 @@
-# PricingPannel
-# Exampel of pricing pannel.
+# PricingPanel
+# Exampel of pricing panel.
